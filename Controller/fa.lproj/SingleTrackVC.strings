@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Artist"; ObjectID = "RNT-g7-RX0"; */
+"RNT-g7-RX0.text" = "Artist";
+
+/* Class = "UIButton"; normalTitle = "دانلود"; ObjectID = "iiD-fq-0vu"; */
+"iiD-fq-0vu.normalTitle" = "دانلود";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "kc9-u0-lnb"; */
+"kc9-u0-lnb.text" = "Title";

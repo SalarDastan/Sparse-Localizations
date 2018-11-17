@@ -1,68 +1,65 @@
 
 /* Class = "UINavigationItem"; title = "اسـپـارس"; ObjectID = "05a-3p-gIu"; */
-"05a-3p-gIu.title" = "Sparse";
+"05a-3p-gIu.title" = "سپارس";
 
 /* Class = "UIBarButtonItem"; title = "انتخاب"; ObjectID = "1eo-3T-S6D"; */
-"1eo-3T-S6D.title" = "Select";
+"1eo-3T-S6D.title" = "هەڵبژێررا";
 
 /* Class = "UILabel"; text = "Songs"; ObjectID = "1f9-30-jJd"; */
-"1f9-30-jJd.text" = "Songs";
-
-/* Class = "UIViewController"; title = " "; ObjectID = "1ts-z0-FOb"; */
-"1ts-z0-FOb.title" = " ";
+"1f9-30-jJd.text" = "گورانیەکان";
 
 /* Class = "UILabel"; text = "s_h.dastan@me.com"; ObjectID = "4RS-PK-X9t"; */
 "4RS-PK-X9t.text" = "s_h.dastan@me.com";
 
 /* Class = "UILabel"; text = "برای اطلاعات بیشتر در مورد پوشه آیتونز به کانال ما جهت مشاهده ویدئوهای آموزشی بپیوندید"; ObjectID = "4rY-ge-MQZ"; */
-"4rY-ge-MQZ.text" = "For more information and tutorial videos please follow us on Social Networks";
+"4rY-ge-MQZ.text" = "بۆ زانیاری زیاترلەبارەى ئۆفەرەکانمان و چونیەتی بەکارهینانی سپارس لاپەڕەی ئينستاگرام یان فەيسبوك فالۆ بکە";
 
 /* Class = "UINavigationItem"; title = "لیست پخش"; ObjectID = "5gp-qR-Rna"; */
-"5gp-qR-Rna.title" = "My Playlist";
+"5gp-qR-Rna.title" = "پلایلێستەکان";
 
-"bnr-fG-gPH.title" = "Discover";
+"bnr-fG-gPH.title" = "تایبەتەکان";
 
 /* Class = "UIViewController"; title = " "; ObjectID = "6Pd-G6-NdU"; */
 "6Pd-G6-NdU.title" = " ";
 
 /* Class = "UIButton"; normalTitle = "تغییر تم"; ObjectID = "6WD-a8-qbB"; */
-"6WD-a8-qbB.normalTitle" = "Change Theme";
+"6WD-a8-qbB.normalTitle" = "گۆرینی رووکار";
 
 /* Class = "UIButton"; normalTitle = "پاک کردن فولدر اشتراک آیتونز"; ObjectID = "BzH-q4-app"; */
-"BzH-q4-app.normalTitle" = "Clear iTunes Folder";
+"BzH-q4-app.normalTitle" = "سڕینەوەی داتا فۆلدەرى ئەی تونز";
 
 /* Class = "UIViewController"; title = "Setting"; ObjectID = "CJc-m9-wAb"; */
-"CJc-m9-wAb.title" = "Settings";
+"CJc-m9-wAb.title" = "ڕێکخستنەکان";
 
 /* Class = "UITabBarItem"; title = "لیست پخش"; ObjectID = "Dag-Rt-t74"; */
-"Dag-Rt-t74.title" = "Discover";
+"Dag-Rt-t74.title" = "تایبەتەکان";
 
 /* Class = "UIViewController"; title = " "; ObjectID = "EJx-ML-O6A"; */
 "EJx-ML-O6A.title" = " ";
 
 /* Class = "UIButton"; normalTitle = "پشتیبانی آنلاین"; ObjectID = "FYl-eC-i7N"; */
-"FYl-eC-i7N.normalTitle" = "Online Support";
+"FYl-eC-i7N.normalTitle" = "پەيوەندیمان پێ بكە";
 
 /* Class = "UILabel"; text = "Username:"; ObjectID = "Fbe-gt-IV5"; */
-"Fbe-gt-IV5.text" = "Username: ";
+"Fbe-gt-IV5.text" = "ئیمێلی بەکار ھێنەر:";
 
 /* Class = "UIButton"; normalTitle = "پاک کردن همه داده ها (خصوصی برنامه)"; ObjectID = "Fva-Tg-RWg"; */
-"Fva-Tg-RWg.normalTitle" = "Wipe Data (include Music)";
+"Fva-Tg-RWg.normalTitle" = "سڕینەوەی هەموو داتا، تەنانەت مۆسيقا";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "G9e-Hz-cDC"; */
 "G9e-Hz-cDC.title" = " ";
 
 /* Class = "UILabel"; text = "تمیز کردن پوشه آیتونز بعد از وارد کردن موزیک :"; ObjectID = "IHn-5A-Qb9"; */
-"IHn-5A-Qb9.text" = "Clear iTunes Folder After Import:";
+"IHn-5A-Qb9.text" = "سڕینەوەی داتا فۆلدەرى ئەی تونز بەدوای داگرتن:";
 
 /* Class = "UILabel"; text = "مقدار فضای موزیک ها (خصوصی برنامه) :"; ObjectID = "LrT-qc-RlX"; */
-"LrT-qc-RlX.text" = "Used Space : ";
+"LrT-qc-RlX.text" = "بۆشاييى بەكارهاتوو:";
 
-/* Class = "UIButton"; normalTitle = "کانال تلگرام"; ObjectID = "Nkd-Vz-NDz"; */
-"Nkd-Vz-NDz.normalTitle" = "Telegram Channel";
+/* Class = "UIButton"; normalTitle = "صفحه اینستاگرام"; ObjectID = "Nkd-Vz-NDz"; */
+"Nkd-Vz-NDz.normalTitle" = "لاپەڕەی ئينستاگرام";
 
 /* Class = "UIButton"; normalTitle = "تغییر کلمه عبور"; ObjectID = "Nl4-TS-YoJ"; */
-"Nl4-TS-YoJ.normalTitle" = "Change Password";
+"Nl4-TS-YoJ.normalTitle" = "گوڕینی وشەى نهێنى";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "OPu-dO-rcC"; */
 "OPu-dO-rcC.title" = " ";
@@ -71,10 +68,13 @@
 "QCC-xy-YKr.title" = " ";
 
 /* Class = "UILabel"; text = "نمایش آلبوم های تک موزیک در بخش آلبوم ها :"; ObjectID = "RTI-d0-2KI"; */
-"RTI-d0-2KI.text" = "Show Single Track Albums in Album List:";
+"RTI-d0-2KI.text" = "گۆرانی تاکەکان لە ليستی ئەلبومەکان نيشان بدە:";
+
+/* Class = "UIViewController"; title = " "; ObjectID = "Rn7-LH-IaN"; */
+"Rn7-LH-IaN.title" = " ";
 
 /* Class = "UIButton"; normalTitle = "خروج از حساب کاربری"; ObjectID = "RuD-AW-0si"; */
-"RuD-AW-0si.normalTitle" = "Sign Out";
+"RuD-AW-0si.normalTitle" = "چوونە دەرەوە";
 
 /* Class = "UILabel"; text = "Hoviate Man"; ObjectID = "SU5-gz-9bD"; */
 "SU5-gz-9bD.text" = "Hoviate Man";
@@ -83,19 +83,19 @@
 "T4T-pp-zQs.text" = "12 MB";
 
 /* Class = "UITabBarItem"; title = "موزیک ها"; ObjectID = "Wfo-ZP-w3m"; */
-"Wfo-ZP-w3m.title" = "Library";
+"Wfo-ZP-w3m.title" = "گورانیەکان";
 
 /* Class = "UINavigationItem"; title = "همه موزیک ها"; ObjectID = "WjI-Ee-WaK"; */
-"WjI-Ee-WaK.title" = "All Songs";
+"WjI-Ee-WaK.title" = "هەموو گورانیەکان";
 
 /* Class = "UIButton"; normalTitle = "تمیز کردن حافظه"; ObjectID = "XAL-mh-e4Z"; */
-"XAL-mh-e4Z.normalTitle" = "Clear Useless Items";
+"XAL-mh-e4Z.normalTitle" = "پاکردنەوەی فایلی بێسوود";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "ZWn-Xg-GoN"; */
 "ZWn-Xg-GoN.title" = " ";
 
 /* Class = "UIButton"; normalTitle = "صفحه اینستاگرام"; ObjectID = "chN-97-qq1"; */
-"chN-97-qq1.normalTitle" = "Instagram Page";
+"chN-97-qq1.normalTitle" = "لاپەڕەی ئينستاگرام";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "drv-R5-s0f"; */
 "drv-R5-s0f.title" = " ";
@@ -104,19 +104,19 @@
 "eXr-12-JDk.text" = "Yas";
 
 /* Class = "UITabBarItem"; title = "امروز"; ObjectID = "f7D-H3-u3H"; */
-"f7D-H3-u3H.title" = "Today";
+"f7D-H3-u3H.title" = "ئەمڕۆ";
 
 /* Class = "UIButton"; normalTitle = "وارد کردن موزیک ها از فولدر آیتونز"; ObjectID = "fTy-DO-HPu"; */
-"fTy-DO-HPu.normalTitle" = "Import Music From iTunes Folder";
+"fTy-DO-HPu.normalTitle" = "داتای فۆلدەرى ئەی تونز دابگرە";
 
 /* Class = "UILabel"; text = "v1.1"; ObjectID = "hGj-vE-hd4"; */
 "hGj-vE-hd4.text" = "v1.1";
 
 /* Class = "UILabel"; text = "مقدار فضای پوشه اشتراک آیتونز :"; ObjectID = "iJd-Zt-HJ9"; */
-"iJd-Zt-HJ9.text" = "Used Space(iTunes Folder):";
+"iJd-Zt-HJ9.text" = "بۆشاييى بەكارهاتووی فۆلدەرى ئەی تونز:";
 
 /* Class = "UIButton"; normalTitle = "دانلود آلبوم"; ObjectID = "ih7-px-Sra"; */
-"ih7-px-Sra.normalTitle" = "Download Album";
+"ih7-px-Sra.normalTitle" = "داگرتنی ئەلبۆوم";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "j8g-9m-0Uf"; */
 "j8g-9m-0Uf.title" = " ";
@@ -127,29 +127,29 @@
 /* Class = "UILabel"; text = "Hoviate Man"; ObjectID = "ozR-vl-WNL"; */
 "ozR-vl-WNL.text" = "Hoviate Man";
 
+/* Class = "UIButton"; normalTitle = "دانلود سیری شورتکات"; ObjectID = "pkv-RL-OFy"; */
+"pkv-RL-OFy.normalTitle" = "دابەزاندنی شۆرتكەتى سیری";
+
 /* Class = "UINavigationItem"; title = "دانلودر"; ObjectID = "ppO-UO-nD7"; */
-"ppO-UO-nD7.title" = "Downloader";
+"ppO-UO-nD7.title" = "داونلۆدر";
 
 /* Class = "UITabBarItem"; title = "جستجو"; ObjectID = "qUw-YL-uhL"; */
-"qUw-YL-uhL.title" = "Search";
+"qUw-YL-uhL.title" = "گەران";
 
 /* Class = "UILabel"; text = "مجانی"; ObjectID = "ux0-4h-jjB"; */
-"ux0-4h-jjB.text" = "Free";
+"ux0-4h-jjB.text" = "خۆڕایی";
 
 /* Class = "UILabel"; text = "Yas"; ObjectID = "xid-vu-X2t"; */
 "xid-vu-X2t.text" = "Yas";
 
 /* Class = "UIBarButtonItem"; title = "بیشتر"; ObjectID = "yGR-42-jWa"; */
-"yGR-42-jWa.title" = "More";
+"yGR-42-jWa.title" = "زیاتر";
 
 /* Class = "UITabBarItem"; title = "دانلودر"; ObjectID = "yML-Lw-XGh"; */
-"yML-Lw-XGh.title" = "Downloader";
+"yML-Lw-XGh.title" = "داونلۆدر";
 
 /* Class = "UIButton"; normalTitle = "صادر کردن موزیک ها به فولدر آیتونز"; ObjectID = "yzN-gL-Trp"; */
-"yzN-gL-Trp.normalTitle" = "Export Music To iTunes Folder";
+"yzN-gL-Trp.normalTitle" = "گۆرانیەکان بۆ فۆلدەرى ئەی تونز بنێرە";
 
 /* Class = "UILabel"; text = "Account Type:"; ObjectID = "z6C-Gl-4vO"; */
-"z6C-Gl-4vO.text" = "Account Type:";
-
-
-"pkv-RL-OFy.normalTitle" = "Download Siri Shortcut";
+"z6C-Gl-4vO.text" = "جۆری اکاونت:";

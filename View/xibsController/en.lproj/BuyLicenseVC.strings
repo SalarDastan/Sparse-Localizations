@@ -1,6 +1,6 @@
 
 /* Class = "UILabel"; text = "توجه کنید: نسخه خریداری شده استفاده همزمان برای یک کاربر را فراهم میسازد"; ObjectID = "FRQ-Mj-DXp"; */
-"FRQ-Mj-DXp.text" = "Attention: premium accounts only can be use on one device at the same time";
+"FRQ-Mj-DXp.text" = "Account Regulation: Premium accounts can only be used on one device at the same time";
 
 /* Class = "UIButton"; normalTitle = "خرید"; ObjectID = "I4g-ZM-ivf"; */
 "I4g-ZM-ivf.normalTitle" = "Buy";

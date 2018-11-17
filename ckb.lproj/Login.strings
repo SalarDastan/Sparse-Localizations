@@ -1,15 +1,16 @@
 
 /* Class = "UITextField"; placeholder = "کلمه عبور"; ObjectID = "57x-9x-aHT"; */
-"57x-9x-aHT.placeholder" = "Password";
+"57x-9x-aHT.placeholder" = "وشەى نهێنى";
 
 /* Class = "UILabel"; text = "در این صفحه شما هم میتوانید ثبت نام کنید و هم وارد حساب کاربری خود شوید"; ObjectID = "BEL-vx-gzo"; */
-"BEL-vx-gzo.text" = "You Can SignUp and SignIn in One Step";
+"BEL-vx-gzo.text" = "چوونەژوورەوە و خۆتۆمارکردن لە يەك هەنگاو";
 
 /* Class = "UIButton"; normalTitle = "رمز عبورتان را فراموش کردید؟"; ObjectID = "VUm-bu-MA5"; */
-"VUm-bu-MA5.normalTitle" = "Did You Forget Your Password?";
+"VUm-bu-MA5.normalTitle" = "وشەى نهێنى خۆم لە بیر کردووە";
 
 /* Class = "UIButton"; normalTitle = "ورود | ثبت نام"; ObjectID = "ca5-5J-N9t"; */
-"ca5-5J-N9t.normalTitle" = "Login | Register";
+"ca5-5J-N9t.normalTitle" = "چوونەژوورەوە | خۆتۆمارکردن";
 
 /* Class = "UITextField"; placeholder = "ایمیل"; ObjectID = "tGM-fi-qq4"; */
-"tGM-fi-qq4.placeholder" = "Email";
+"tGM-fi-qq4.placeholder" = "ئیمێل";
+

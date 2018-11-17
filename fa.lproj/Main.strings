@@ -1,68 +1,68 @@
 
 /* Class = "UINavigationItem"; title = "اسـپـارس"; ObjectID = "05a-3p-gIu"; */
-"05a-3p-gIu.title" = "Sparse";
+"05a-3p-gIu.title" = "اسـپـارس";
 
 /* Class = "UIBarButtonItem"; title = "انتخاب"; ObjectID = "1eo-3T-S6D"; */
-"1eo-3T-S6D.title" = "Select";
+"1eo-3T-S6D.title" = "انتخاب";
 
 /* Class = "UILabel"; text = "Songs"; ObjectID = "1f9-30-jJd"; */
-"1f9-30-jJd.text" = "Songs";
+"1f9-30-jJd.text" = "موزیک ها";
+
+/* Class = "UIButton"; normalTitle = "خروج از حساب کاربری"; ObjectID = "1gk-gv-Eev"; */
+"1gk-gv-Eev.normalTitle" = "خروج از حساب کاربری";
 
 /* Class = "UIViewController"; title = " "; ObjectID = "1ts-z0-FOb"; */
 "1ts-z0-FOb.title" = " ";
 
-/* Class = "UILabel"; text = "s_h.dastan@me.com"; ObjectID = "4RS-PK-X9t"; */
-"4RS-PK-X9t.text" = "s_h.dastan@me.com";
-
 /* Class = "UILabel"; text = "برای اطلاعات بیشتر در مورد پوشه آیتونز به کانال ما جهت مشاهده ویدئوهای آموزشی بپیوندید"; ObjectID = "4rY-ge-MQZ"; */
-"4rY-ge-MQZ.text" = "For more information and tutorial videos please follow us on Social Networks";
+"4rY-ge-MQZ.text" = "برای اطلاعات بیشتر در مورد پوشه آیتونز به کانال ما جهت مشاهده ویدئوهای آموزشی بپیوندید";
 
 /* Class = "UINavigationItem"; title = "لیست پخش"; ObjectID = "5gp-qR-Rna"; */
-"5gp-qR-Rna.title" = "My Playlist";
+"5gp-qR-Rna.title" = "لیست پخش من";
 
-"bnr-fG-gPH.title" = "Discover";
+"bnr-fG-gPH.title" = "کاوش";
+
+/* Class = "UILabel"; text = "کانال تلگرام"; ObjectID = "6Cu-2y-Sdu"; */
+"6Cu-2y-Sdu.text" = "کانال تلگرام";
 
 /* Class = "UIViewController"; title = " "; ObjectID = "6Pd-G6-NdU"; */
 "6Pd-G6-NdU.title" = " ";
 
 /* Class = "UIButton"; normalTitle = "تغییر تم"; ObjectID = "6WD-a8-qbB"; */
-"6WD-a8-qbB.normalTitle" = "Change Theme";
+"6WD-a8-qbB.normalTitle" = "تغییر تم";
+
+/* Class = "UILabel"; text = "s_h.dastan@me.com"; ObjectID = "99J-vJ-tNi"; */
+"99J-vJ-tNi.text" = "s_h.dastan@me.com";
 
 /* Class = "UIButton"; normalTitle = "پاک کردن فولدر اشتراک آیتونز"; ObjectID = "BzH-q4-app"; */
-"BzH-q4-app.normalTitle" = "Clear iTunes Folder";
+"BzH-q4-app.normalTitle" = "پاک کردن فولدر اشتراک آیتونز";
 
 /* Class = "UIViewController"; title = "Setting"; ObjectID = "CJc-m9-wAb"; */
-"CJc-m9-wAb.title" = "Settings";
+"CJc-m9-wAb.title" = "تنظیمات";
 
 /* Class = "UITabBarItem"; title = "لیست پخش"; ObjectID = "Dag-Rt-t74"; */
-"Dag-Rt-t74.title" = "Discover";
+"Dag-Rt-t74.title" = "کاوش";
 
 /* Class = "UIViewController"; title = " "; ObjectID = "EJx-ML-O6A"; */
 "EJx-ML-O6A.title" = " ";
 
-/* Class = "UIButton"; normalTitle = "پشتیبانی آنلاین"; ObjectID = "FYl-eC-i7N"; */
-"FYl-eC-i7N.normalTitle" = "Online Support";
-
-/* Class = "UILabel"; text = "Username:"; ObjectID = "Fbe-gt-IV5"; */
-"Fbe-gt-IV5.text" = "Username: ";
-
 /* Class = "UIButton"; normalTitle = "پاک کردن همه داده ها (خصوصی برنامه)"; ObjectID = "Fva-Tg-RWg"; */
-"Fva-Tg-RWg.normalTitle" = "Wipe Data (include Music)";
+"Fva-Tg-RWg.normalTitle" = "پاک کردن همه داده ها (خصوصی برنامه)";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "G9e-Hz-cDC"; */
 "G9e-Hz-cDC.title" = " ";
 
 /* Class = "UILabel"; text = "تمیز کردن پوشه آیتونز بعد از وارد کردن موزیک :"; ObjectID = "IHn-5A-Qb9"; */
-"IHn-5A-Qb9.text" = "Clear iTunes Folder After Import:";
+"IHn-5A-Qb9.text" = "تمیز کردن پوشه آیتونز بعد از وارد کردن موزیک :";
+
+/* Class = "UILabel"; text = "مجانی"; ObjectID = "Iv3-a6-efW"; */
+"Iv3-a6-efW.text" = "مجانی";
+
+/* Class = "UILabel"; text = "نوع حساب :"; ObjectID = "Kfq-wk-foY"; */
+"Kfq-wk-foY.text" = "نوع حساب :";
 
 /* Class = "UILabel"; text = "مقدار فضای موزیک ها (خصوصی برنامه) :"; ObjectID = "LrT-qc-RlX"; */
-"LrT-qc-RlX.text" = "Used Space : ";
-
-/* Class = "UIButton"; normalTitle = "کانال تلگرام"; ObjectID = "Nkd-Vz-NDz"; */
-"Nkd-Vz-NDz.normalTitle" = "Telegram Channel";
-
-/* Class = "UIButton"; normalTitle = "تغییر کلمه عبور"; ObjectID = "Nl4-TS-YoJ"; */
-"Nl4-TS-YoJ.normalTitle" = "Change Password";
+"LrT-qc-RlX.text" = "مقدار فضای موزیک ها (خصوصی برنامه) :";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "OPu-dO-rcC"; */
 "OPu-dO-rcC.title" = " ";
@@ -71,10 +71,7 @@
 "QCC-xy-YKr.title" = " ";
 
 /* Class = "UILabel"; text = "نمایش آلبوم های تک موزیک در بخش آلبوم ها :"; ObjectID = "RTI-d0-2KI"; */
-"RTI-d0-2KI.text" = "Show Single Track Albums in Album List:";
-
-/* Class = "UIButton"; normalTitle = "خروج از حساب کاربری"; ObjectID = "RuD-AW-0si"; */
-"RuD-AW-0si.normalTitle" = "Sign Out";
+"RTI-d0-2KI.text" = "نمایش آلبوم های تک موزیک در بخش آلبوم ها :";
 
 /* Class = "UILabel"; text = "Hoviate Man"; ObjectID = "SU5-gz-9bD"; */
 "SU5-gz-9bD.text" = "Hoviate Man";
@@ -83,43 +80,55 @@
 "T4T-pp-zQs.text" = "12 MB";
 
 /* Class = "UITabBarItem"; title = "موزیک ها"; ObjectID = "Wfo-ZP-w3m"; */
-"Wfo-ZP-w3m.title" = "Library";
+"Wfo-ZP-w3m.title" = "موزیک ها";
 
 /* Class = "UINavigationItem"; title = "همه موزیک ها"; ObjectID = "WjI-Ee-WaK"; */
-"WjI-Ee-WaK.title" = "All Songs";
+"WjI-Ee-WaK.title" = "همه موزیک ها";
 
 /* Class = "UIButton"; normalTitle = "تمیز کردن حافظه"; ObjectID = "XAL-mh-e4Z"; */
-"XAL-mh-e4Z.normalTitle" = "Clear Useless Items";
+"XAL-mh-e4Z.normalTitle" = "تمیز کردن حافظه";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "ZWn-Xg-GoN"; */
 "ZWn-Xg-GoN.title" = " ";
 
-/* Class = "UIButton"; normalTitle = "صفحه اینستاگرام"; ObjectID = "chN-97-qq1"; */
-"chN-97-qq1.normalTitle" = "Instagram Page";
+/* Class = "UILabel"; text = "صفحه اینستاگرام"; ObjectID = "byx-nP-D0e"; */
+"byx-nP-D0e.text" = "صفحه اینستاگرام";
+
+/* Class = "UILabel"; text = "نام کاربری :"; ObjectID = "dag-Vd-mui"; */
+"dag-Vd-mui.text" = "نام کاربری :";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "drv-R5-s0f"; */
 "drv-R5-s0f.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "تغییر کلمه عبور"; ObjectID = "eJd-bC-me0"; */
+"eJd-bC-me0.normalTitle" = "تغییر کلمه عبور";
 
 /* Class = "UILabel"; text = "Yas"; ObjectID = "eXr-12-JDk"; */
 "eXr-12-JDk.text" = "Yas";
 
 /* Class = "UITabBarItem"; title = "امروز"; ObjectID = "f7D-H3-u3H"; */
-"f7D-H3-u3H.title" = "Today";
+"f7D-H3-u3H.title" = "امروز";
 
 /* Class = "UIButton"; normalTitle = "وارد کردن موزیک ها از فولدر آیتونز"; ObjectID = "fTy-DO-HPu"; */
-"fTy-DO-HPu.normalTitle" = "Import Music From iTunes Folder";
+"fTy-DO-HPu.normalTitle" = "وارد کردن موزیک ها از فولدر آیتونز";
+
+/* Class = "UILabel"; text = "پشتیبانی آنلاین"; ObjectID = "hFV-7u-aNZ"; */
+"hFV-7u-aNZ.text" = "پشتیبانی آنلاین";
 
 /* Class = "UILabel"; text = "v1.1"; ObjectID = "hGj-vE-hd4"; */
 "hGj-vE-hd4.text" = "v1.1";
 
 /* Class = "UILabel"; text = "مقدار فضای پوشه اشتراک آیتونز :"; ObjectID = "iJd-Zt-HJ9"; */
-"iJd-Zt-HJ9.text" = "Used Space(iTunes Folder):";
+"iJd-Zt-HJ9.text" = "مقدار فضای پوشه اشتراک آیتونز :";
 
 /* Class = "UIButton"; normalTitle = "دانلود آلبوم"; ObjectID = "ih7-px-Sra"; */
-"ih7-px-Sra.normalTitle" = "Download Album";
+"ih7-px-Sra.normalTitle" = "دانلود آلبوم";
 
 /* Class = "UIBarButtonItem"; title = " "; ObjectID = "j8g-9m-0Uf"; */
 "j8g-9m-0Uf.title" = " ";
+
+/* Class = "UINavigationItem"; title = "بهترین ها"; ObjectID = "kst-X1-YTv"; */
+"kst-X1-YTv.title" = "بهترین ها";
 
 /* Class = "UILabel"; text = "12 MB"; ObjectID = "ne5-oY-Xdx"; */
 "ne5-oY-Xdx.text" = "12 MB";
@@ -128,28 +137,27 @@
 "ozR-vl-WNL.text" = "Hoviate Man";
 
 /* Class = "UINavigationItem"; title = "دانلودر"; ObjectID = "ppO-UO-nD7"; */
-"ppO-UO-nD7.title" = "Downloader";
+"ppO-UO-nD7.title" = "دانلودر";
 
 /* Class = "UITabBarItem"; title = "جستجو"; ObjectID = "qUw-YL-uhL"; */
-"qUw-YL-uhL.title" = "Search";
-
-/* Class = "UILabel"; text = "مجانی"; ObjectID = "ux0-4h-jjB"; */
-"ux0-4h-jjB.text" = "Free";
+"qUw-YL-uhL.title" = "جستجو";
 
 /* Class = "UILabel"; text = "Yas"; ObjectID = "xid-vu-X2t"; */
 "xid-vu-X2t.text" = "Yas";
 
 /* Class = "UIBarButtonItem"; title = "بیشتر"; ObjectID = "yGR-42-jWa"; */
-"yGR-42-jWa.title" = "More";
+"yGR-42-jWa.title" = "بیشتر";
 
 /* Class = "UITabBarItem"; title = "دانلودر"; ObjectID = "yML-Lw-XGh"; */
-"yML-Lw-XGh.title" = "Downloader";
+"yML-Lw-XGh.title" = "دانلودر";
 
 /* Class = "UIButton"; normalTitle = "صادر کردن موزیک ها به فولدر آیتونز"; ObjectID = "yzN-gL-Trp"; */
-"yzN-gL-Trp.normalTitle" = "Export Music To iTunes Folder";
+"yzN-gL-Trp.normalTitle" = "صادر کردن موزیک ها به فولدر آیتونز";
 
 /* Class = "UILabel"; text = "Account Type:"; ObjectID = "z6C-Gl-4vO"; */
-"z6C-Gl-4vO.text" = "Account Type:";
+"z6C-Gl-4vO.text" = "نوع حساب :";
 
+/* Class = "UILabel"; text = "Username:"; ObjectID = "Fbe-gt-IV5"; */
+"Fbe-gt-IV5.text" = "نام کاربری :";
 
-"pkv-RL-OFy.normalTitle" = "Download Siri Shortcut";
+"pkv-RL-OFy.normalTitle" = "دانلود سیری شورتکات";

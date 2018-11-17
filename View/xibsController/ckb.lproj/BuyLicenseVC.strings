@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "توجه کنید: نسخه خریداری شده استفاده همزمان برای یک کاربر را فراهم میسازد"; ObjectID = "FRQ-Mj-DXp"; */
+"FRQ-Mj-DXp.text" = "تێبينى: تکایە ئاگادار بە اکاونتی سپارس لە ھەر کات تەنھا بۆ يەك ئامێر بە کار دێت";
+
+/* Class = "UIButton"; normalTitle = "خرید"; ObjectID = "I4g-ZM-ivf"; */
+"I4g-ZM-ivf.normalTitle" = "کڕین";
+
+/* Class = "UILabel"; text = "شما کاربر معمولی اپلیکیشن هستید"; ObjectID = "R3x-Q1-a2w"; */
+"R3x-Q1-a2w.text" = "بەڕێزم، مۆڵەتی تاقی كردنەوە بەسەرچووە";
+
+/* Class = "UILabel"; text = "برای استفاده از تمام امکانات اپلیکیشن میتوانید آن را خریداری کنید"; ObjectID = "Ymz-pw-vt0"; */
+"Ymz-pw-vt0.text" = "تکایە بۆ چالاک کردنی اکاونتەکەت لە فاستپەی كۆد بکرە";
+
+/* Class = "UILabel"; text = "۱ سال"; ObjectID = "ZQY-Ug-get"; */
+"ZQY-Ug-get.text" = "۱ سال";
+
+/* Class = "UIButton"; normalTitle = "کد تخفیف دارید؟"; ObjectID = "dUe-il-nb4"; */
+"dUe-il-nb4.normalTitle" = "کد تخفیف دارید؟";
+
+/* Class = "UILabel"; text = "۱۴٬۰۰۰ تومان"; ObjectID = "qfT-jo-6CZ"; */
+"qfT-jo-6CZ.text" = "۱۴٬۰۰۰ تومان";

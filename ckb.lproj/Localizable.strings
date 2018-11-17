@@ -1,0 +1,169 @@
+
+"Login_WrongEmail_Error" = "ئيمێل هەڵەيە";
+"Login_WrongPassword_Error" = "وشەى نهێنى هەڵەيە";
+"Login_WarningTitle" = "ئاگادارى";
+"Login_WarningBody" = "تکایە ئاگادار بە اکاونتی سپارس لە ھەر کات تەنھا بۆ یەک ئامێر بە کار دێت.\nبۆ نموونە ئەگەر لەسەر ئامێرێکی نوێ بە ئیمێلی خۆت لۆگین بکەی، سپارس لە سەر ئامێری کۆن لۆگ ئەوت دەبێت و ھەموو داتای میووزیک داونلۆد کراوەکان دەسڕێتەوە.";
+"Login_WarningAgree" = "پەسەند کرا";
+"Failed_Connection" = "هەڵەى پەيوەندى. تكايە دووبارە هەوڵ بدە";
+"Login_Email_Or_Password_Wrong" = "ئيمێل يان وشەى نهێنى هەڵەيە";
+
+"Close" = "داخستن";
+"Select" = "هەڵبژێررا";
+"More" = "زیاتر";
+"Nevermind" = "هەڵوەشاندن";
+"Done" = "تەواو";
+
+"Foreign_Tab" = "موسیقای ئینگلیزی";
+"Persian_Tab" = "موسیقای فارسی";
+"All_Songs" = "هەمووگۆرانیە کان";
+
+"Download_All" = "هەمووی دابگرە";
+"Download_All_And_Create_Playlist" = "هەمووی دابگرە و ئەم پلايليستە دروست بکە";
+
+"localizedFontBold" = "NRTBold-Bold";
+"localizedFontMedium" = "NRTReg";
+"localizedFontLight" = "NRTReg";
+
+"Playlist_No_Item" = "پلايليستت بەتاڵە\nئێستا پلايليستێك دروست بكە";
+"Playlist_Tip" = "لەگەڵ گۆرانى داونلۆد کراوەکان پلايليستێك دروست بكە";
+
+"Downloader_No_Item" = "لیستی داونلۆد بەتاڵە\nھەر ئێستا لینکێک بدۆزەوە تا داونلۆد دەست پە بکات";
+"Downloader_Tip" = "لینکی گۆرانی، ئەلبۆوم یان پلایلێستی \nھەلبژاردەی خۆت لێرە کۆپی بکە\nتا بە کوالێتی بەرز داونلۆد بکرێت";
+
+//Player
+"Random_Mode_On" = "شێوازی ڕاندۆم پێى كرا";
+"Random_Mode_Off" = "شێوازی ڕاندۆم داخرا";
+
+"Delete_Lyrics" = "تێكستی گۆرانى بسڕەوە";
+"Get_Lyrics" = "تێكستی گۆرانى وەربگرە";
+
+"Getting_Lyrics" = "خەریکی وەرگرتنی تێكستی گۆرانى";
+"Getting_Lyrics_Error" = "هەڵە ڕووى داووە";
+
+"Add_Playlist" = "پلايليست زياد بكە";
+"File_Share" = "ناردنی فايلی گۆرانی";
+
+"Added_To_Playlist" = "بۆ پلايليست بنێرە";
+
+"Now_Playing" = "ئەم گۆرانیە بەردەوامە";
+"Next_Play" = "گۆرانی تر";
+"Previous_Play" = "گۆرانی پێشوو";
+
+"Repeat_Mode_Off" = "دووبارە كردن نەبیت";
+"Repeat_Mode_Playlist" = "دووبارە كردنی پلایلێست";
+"Repeat_Mode_Song" = "دووبارە كردنی گۆرانی";
+
+"Perian_Search_Warning" = "تکایە بۆ گەران بە زمانی ئینگلیزی بنووسە";
+
+"Empty_Search_Text" = "Please enter a text";
+
+"Yes_Delete_It" = "بسڕەوە";
+
+"Delete_Selected_Songs" = "گۆرانيە ديارى کراوەکان بسڕەوە ";
+"Recover_Song_Cover" = "وێنەی کۆڤری گۆرانی دابگرە";
+"Recover_Song_Cover_Success" = "وێنەی کۆڤری گۆرانێ زیاد کرا";
+"Recover_Song_Cover_Failed" = "وێنەی کۆڤری گۆرانێ بەردەست نیە";
+
+"Delete_Song" = "گۆرانى بسڕەوە";
+"All_Albums" = "ھەموو ئەلبۆومەکان";
+
+"Error_Occurred" = "هەڵە ڕووى داووە";
+"Invalid_Link" = "لینک راست نیە";
+"Cant_Find_Mp3" = " گورانی نەدۆزراوە";
+"Song_Downloader" = "داونلۆدری میووزیک";
+"Please_Enter_Link" = "لینکێک داخیل بکە";
+"Download_Link" = "لینکی داونلۆد";
+"Download" = "داونلۆد";
+"Downloaded" = "داونلۆد کرا";
+"Downloading" = "خەریکی داونلۆد کردن";
+"Paste_From_Clipboard" = "کۆپی پێیست";
+
+"Start" = "دەست پێ بکە";
+"Pause" = "وەستان";
+"Delete" = "سڕینەوە";
+"TryAgain" = "دووبارە هەوڵ بدە";
+"Sib_App_Version" = "Sibapp Version";
+"Nassaab_App_Version" = "Nassaab Version";
+"Direct_App_Version" = "Website Version";
+"Spoti_Phone_App_Version" = "spotiphone.net";
+"Yes_Wipe_Data" = "بەڵێ، داتا بسڕەوە";
+"Yes_Wipe_Data_iTunes" = "بەڵێ، داتا فۆلدەرى ئەی تونز بسڕەوە";
+"Imported_To_App" = "داتای فۆلدەرى ئەی تونز داگرا";
+"Success_Export_To_Itunes" = "گۆرانیەکان بۆ فۆلدەرى ئەی تونز ناردرا";
+"Not_Enough_Space" = "ئامێرەکەت جێی بەتاڵی نەماوە";
+"Rename" = "گۆرینی ناو";
+
+"Edit_Playlist_Name" = "گۆرینی ناوی پلایلێست";
+"Enter_New_Playlist_Name" = " ناوی نۆی پلایلێست بنووسە";
+"Playlist_Name" = "ناوی پلایلێست";
+"Delete_Playlist" = "ئەم پلایلێستە بسڕەوە";
+"New_Playlist" = " پلایلێستی نۆی";
+
+"Create" = "درووستکردن";
+
+"Delete_From_This_Playlist" = "لەم پلایلێستە بسڕەوە";
+"Payment_Gate_Error" = "Payment Gate Has an Issue";
+"Toman" = "Toman";
+"Off_Code_Title" = "Apply Discount Code";
+"Off_Code_Body" = "This type of codes usually give away in telegram channel and instagram page\nEnter Your Code";
+"Off_Code" = "Off Code";
+"Apply_Code" = "Apply Code";
+"Value_Percent_Off" = "Percent Did Apply";
+
+"Preparing_Things" = "ئامادەکردن \nبۆ هەڵوەشاندن دوگمەی دواوە بەكار بینە";
+"Nothing_To_Download" = "ھەمووی داونلۆد کرا";
+"All_Songs_Added_To_Queue" = "هەموو گۆرانیەکان بۆ ڕيزى دابەزاندن زياد کران ";
+
+"Submit_Code_Title" = "کۆدی کڕین";
+"Submit_Code_Body" = "تکایە بۆ چالاک کردنی اکاونتەکەت کۆدی تایبەت لە فاستپەی بکرە \nکۆدی چالاک کردن داخيل بکە";
+"Submit_Code_Placeholder" = " کۆدی نهێنی";
+"Submit_Code_Btn" = "چالاک بکە";
+
+"Yes_Sign_Out" = "بەڵێ، لۆگ ئەوت بکە و داتای ھەموو میووزیک داونلۆد کراوەکان بسڕەوە";
+
+"Change_Password" = "گوڕینی وشەى نهێنى";
+"Change_Password_Old" = "وشەى نهێنى پێشوو";
+"Change_Password_New" = "وشەى نهێنى نۆی";
+"Change_Password_Confirm" = "دووپاتکردنەوە وشەى نهێنى نۆی";
+
+"Follow" = "فالۆ بکە";
+"UnFollow" = "ئانفالۆ بکە";
+"All_Artists" = "هەموو ھونەرمەندەکان";
+
+"Freemium_PopUp_Title" = "بە خۆرایی تاقی بکەوە";
+
+
+"Request_Playlist_Title" = "  داوای پلايليستی سپۆتيفای بکە";
+"Request_Playlist_Subitle" = "بۆ داواكارى تەنها لینکی پلايليستەكە لەخوارەوە داخیل بکە و كاتێك زياد کرا ئاگادار دەكرێيتەوە ";
+"Playlist_Url_Placeholder" = " لینکی پلايليست";
+"Request_This_Playlist" = "بۆم بدۆزەوە";
+
+"Gateway_Error_Title" = "Gateway Error";
+"Search_Placeholder" = "Artists, Tracks, Playlists or Albums";
+"Search" = "گەران";
+
+"Copied_To_Clipboard" = "Lyrics Copied to Clipboard!";
+
+"Songs" = "‎گورانیەکان";
+"Albums" = "ئەلبۆومەکان";
+"Playlist" = "پلایلێستەکان";
+"RecentlyDownloads" = "دوایین داونلۆد";
+"Artists" = "ھونەرمەندەکان";
+"See_All" = "ھەمووی نیشان بدە";
+
+"More_Result" = "ئەنجامى زياتر";
+"Cancell_All" = "هەڵوەشاندن";
+
+"Your_Most_Popular" = "پەسەندکراوەکانی تۆ";
+
+"Download_Failed" = "داونلۆد نەکرا";
+"Download_Completed" = "داونلۆد تەواوکرا";
+
+"Facebook_Page" = "لاپەڕەی فەیسبووک";
+
+"Submit_Code_Title_SpotiPhone" = "کۆدی کڕین";
+"Submit_Code_Body_SpotiPhone" = "تکایە بۆ چالاک کردنی اکاونتەکەت کۆدی تایبەت لە فاستپەی بکرە \nکۆدی چالاک کردن داخيل بکە";
+"Buy_Btn" = "كڕين";
+
+"License_Expired" = "مۆڵەتی بە کار ھێنانت بەسەرچووە";
+"License_Expired_Body" = "تکایە بۆ چالاک کردنی اکاونتەکەت لە فاستپەی كۆد بکرە";

@@ -1,0 +1,172 @@
+
+"Login_WrongEmail_Error" = "لطفا ایمیل خود را به صورت صحیح وارد نمایید";
+"Login_WrongPassword_Error" = "لطفا کلمه ی عبور خود را وارد نمایید";
+"Login_WarningTitle" = "قانون حساب کاربری";
+"Login_WarningBody" = "حساب کاربری اپلیکیشن اسپارس فقط قابل استفاده همزمان بر روی یک دستگاه را دارد و در صورت وارد شدن در دستگاه دیگر، تمامی دستگاه های قبلی شما از حساب خارج شده و موزیک های دریافتی پاک میشود.";
+"Login_WarningAgree" = "موافق هستم، ورود";
+"Failed_Connection" = "خطا در ارتباط. لطفا مجدد سعی کنید";
+"Login_Email_Or_Password_Wrong" = "کلمه ی عبور شما یا ایمیل شما نادرست است";
+
+"Close" = "بستن";
+"Select" = "انتخاب";
+"More" = "بیشتر";
+"Nevermind" = "بی خیال";
+"Done" = "انجام شد";
+
+"Foreign_Tab" = "خارجی";
+"Persian_Tab" = "ایرانی";
+"All_Songs" = "همه ی موزیک ها";
+
+"Download_All" = "دانلود کل";
+"Download_All_And_Create_Playlist" = "دانلود کل و ساخت این لیست پخش";
+
+"localizedFontBold" = "IRANSansMobile-Bold";
+"localizedFontMedium" = "IRANSansMobile-Medium";
+"localizedFontLight" = "IRANSansMobile";
+
+"Playlist_No_Item" = "لیست پخش شما خالی است\nهمین حالا بسازش!";
+"Playlist_Tip" = "ساخت پلی لیست با موزیک های دریافت شده";
+
+"Downloader_No_Item" = "لیست دانلود شما خالی است\nهمین حالا جستجو کن!";
+"Downloader_Tip" = "دانلود فایل و استخراج آلبوم ها، لیست پخش ها و ترک های\nسرویس های اسپاتیفای، دیزر و آیتونز\nبا وارد کردن لینک در اینجا!";
+
+//Player
+"Random_Mode_On" = "حالت تصادفی روشن";
+"Random_Mode_Off" = "حالت تصادفی خاموش";
+
+"Delete_Lyrics" = "حذف متن موزیک";
+"Get_Lyrics" = "دریافت متن موزیک";
+
+"Getting_Lyrics" = "در حال دریافت متن موزیک...";
+"Getting_Lyrics_Error" = "خطا در دریافت متن موزیک";
+
+"Add_Playlist" = "اضافه به لیست پخش";
+"File_Share" = "اشتراک فایل";
+
+"Added_To_Playlist" = "به لیست پخش اضافه شد";
+
+"Now_Playing" = "در حال پخش";
+"Next_Play" = "موزیک های بعدی";
+"Previous_Play" = "موزیک های پخش شده";
+
+"Repeat_Mode_Off" = "بدون تکرار";
+"Repeat_Mode_Playlist" = "تکرار لیست پخش جاری";
+"Repeat_Mode_Song" = "تکرار موزیک جاری";
+
+"Perian_Search_Warning" = "تا حد امکان برای مشاهده نتایج بیشتر انگلیسی تایپ شود";
+
+
+"Empty_Search_Text" = "متن مورد نظر را وارد نمایید";
+
+"Yes_Delete_It" = "بله، حذف شود";
+
+"Delete_Selected_Songs" = "حذف موزیک های انتخاب شده";
+"Recover_Song_Cover" = "دریافت کاور موزیک";
+"Recover_Song_Cover_Success" = "کاور موزیک جایگزین شد!";
+"Recover_Song_Cover_Failed" = "کاور موزیک پیدا نشد!";
+
+"Delete_Song" = "حذف موزیک";
+"All_Albums" = "همه ی آلبوم ها";
+
+"Error_Occurred" = "خطایی پیش آمده";
+"Invalid_Link" = "لینک نامعتبر";
+"Cant_Find_Mp3" = "فایل mp3 جهت دانلود پیدا نشد";
+"Song_Downloader" = "دانلودر موزیک";
+"Please_Enter_Link" = "لینک خود را کپی کنید";
+"Download_Link" = "لینک دانلود";
+"Download" = "دانلود";
+"Downloaded" = "دانلود شده";
+"Downloading" = "در حال دانلود";
+"Paste_From_Clipboard" = "کپی از کلیپبورد";
+
+"Start" = "شروع";
+"Pause" = "توقف";
+"Delete" = "حذف";
+"TryAgain" = "سعی مجدد";
+"Sib_App_Version" = "نسخه سیب اپ";
+"Nassaab_App_Version" = "نسخه نصاب";
+"Direct_App_Version" = "نسخه مستقیم";
+"Spoti_Phone_App_Version" = "نسخه SpotiPhone";
+"Yes_Wipe_Data" = "بله، کل داده ها پاک شود";
+"Yes_Wipe_Data_iTunes" = "بله کل اطلاعات پوشه ایتونز پاک شود";
+"Imported_To_App" = "مورد وارد برنامه شد";
+"Success_Export_To_Itunes" = "با موفقیت صادر شد به پوشه آیتونز";
+"Not_Enough_Space" = "فضای خالی برای این کار وجود ندارد";
+"Rename" = "تغییر نام";
+
+"Edit_Playlist_Name" = "ویرایش نام لیست پخش";
+"Enter_New_Playlist_Name" = "نام لیست پخش خود را وارد نمایید";
+"Playlist_Name" = "نام لیست پخش";
+"Delete_Playlist" = "حذف لیست پخش";
+"New_Playlist" = "لیست پخش جدید";
+
+"Create" = "ایجاد";
+
+"Delete_From_This_Playlist" = "حذف از این لیست پخش";
+"Payment_Gate_Error" = "خطا در ارتباط با درگاه";
+"Toman" = "تومان";
+"Off_Code_Title" = "ثبت کد تخفیف";
+"Off_Code_Body" = "کد خود را وارد نمایید\nاین نوع کد در صفحه اینستاگرام و کانال تلگرام به صورت دوره ای توضیع میشود";
+"Off_Code" = "کد تخفیف";
+"Apply_Code" = "اعمال کد تخفیف";
+"Value_Percent_Off" = "درصد تخفیف لحاظ شد";
+
+"Preparing_Things" = "در حال آماده سازی\nجهت انصراف از صفحه خارج شوید";
+"Nothing_To_Download" = "موردی برای دانلود وجود ندارد";
+"All_Songs_Added_To_Queue" = "کل آلبوم به لیست دانلود اضافه شد";
+
+"Submit_Code_Title" = "ثبت کد فعالسازی برنامه";
+"Submit_Code_Body" = "کد خود را وارد نمایید\nاین کد ها در شبکه های اجتمایی توضیع میشوند";
+"Submit_Code_Placeholder" = "کـد فعالـسازی";
+"Submit_Code_Btn" = "ثبت کد";
+
+"Yes_Sign_Out" = "بله، خروج از برنامه و پاک شدن همه داده ها";
+
+"Change_Password" = "تغییر کلمه عبور";
+"Change_Password_Old" = "کلمه عبور قدیم";
+"Change_Password_New" = "کلمه عبور جدید";
+"Change_Password_Confirm" = "تکرار کلمه عبور جدید";
+
+"Follow" = "پیگیری";
+"UnFollow" = "لفو پیگیری";
+
+"All_Artists" = "تمام هنرمندان";
+
+
+"Freemium_PopUp_Title" = "سیستم فریمیوم ( اول تست، بعد خرید )";
+
+
+"Request_Playlist_Title" = "درخواست لیست پخش اسپاتیفای";
+"Request_Playlist_Subitle" = "جهت درخواست فقط کافیست لینک لیست پخش را در باکس زیر وارد کنید و بعد از اضافه شدن به صورت نوتیفیکیشن به شما اطلاع داده میشود و شما به لیست پیگیر کننده های این لیست پخش اضافه میشوید";
+"Playlist_Url_Placeholder" = "لینک لیست پخش اسپاتیفای";
+"Request_This_Playlist" = "درخواست این لیست پخش";
+
+"Gateway_Error_Title" = "خطا در ارتباط با درگاه";
+"Search_Placeholder" = "هنرمندان، موزیک ها، لیست پخش ها و آلبوم";
+"Search" = "جستجو";
+
+"Copied_To_Clipboard" = "کپی شد در کلیپبرد!";
+
+"Songs" = "مـوزیک ها";
+"Albums" = "آلـبوم ها";
+"Playlist" = "لـیست پخـش";
+"RecentlyDownloads" = "دانـلود های اخیر";
+"Artists" = "هنـرمندان";
+"See_All" = "نمایش همه";
+
+"More_Result" = "نتایج بیشتر";
+"Cancell_All" = "انصراف همه";
+
+"Your_Most_Popular" = "موزیک های محبوب شما";
+
+"Download_Failed" = "دانلود ناموفق";
+"Download_Completed" = "دانلود موفق";
+
+"Facebook_Page" = "صفحه ی فیسبوک";
+
+"Submit_Code_Title_SpotiPhone" = "حرفه ای شو";
+"Submit_Code_Body_SpotiPhone" = "خرید یکی از کارت های ما از فست پی و لذت استفاده از اپلیکیشن\nکد خود را وارد کنید";
+"Buy_Btn" = "خرید";
+
+"License_Expired" = "اتمام اشتراک";
+"License_Expired_Body" = "شما دسترسی به محتویات فوق را ندارید لطفا جهت ادامه اشتراک را خریداری فرمایید";

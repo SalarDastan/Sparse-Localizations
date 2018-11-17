@@ -1,8 +1,8 @@
 
 "Login_WrongEmail_Error" = "Please Enter Your Email Correctly";
 "Login_WrongPassword_Error" = "Please Enter Your Password";
-"Login_WarningTitle" = "Account Rule";
-"Login_WarningBody" = "Sparse's Account only can be use on one device at the same time, this means if you logIn to a new device, all older devices will signOut and all data will be destroy.";
+"Login_WarningTitle" = "Account Regulation";
+"Login_WarningBody" = "Account Regulation: Premium accounts can only be used on one device at the same time, this means if you login to a new device, Sparse will signout on previous device and all downloaded data will be erased.";
 "Login_WarningAgree" = "I Agree, Login";
 "Failed_Connection" = "Connection Error. Please Try Again";
 "Login_Email_Or_Password_Wrong" = "Email Or Password is Wrong";
@@ -28,7 +28,7 @@
 "Playlist_Tip" = "Create A Playlist With Downloaded Songs";
 
 "Downloader_No_Item" = "Your Download List is Empty\nSearch for it Now!";
-"Downloader_Tip" = "Download Audio Files, Spotify Musics,\nDeezer Songs and Playlists\nPaste Link Here";
+"Downloader_Tip" = "Download Mp3 File and Extract Albums, Playlists and Tracks\nfor Spotify, Deezer and iTunes Services\nJust Enter URL Here!";
 
 //Player
 "Random_Mode_On" = "Random Mode ON";
@@ -41,7 +41,7 @@
 "Getting_Lyrics_Error" = "Error has Occurred";
 
 "Add_Playlist" = "Add To Playlist";
-"File_Share" = "File Share";
+"File_Share" = "Share File";
 
 "Added_To_Playlist" = "Added To Playlist";
 
@@ -55,15 +55,7 @@
 
 "Perian_Search_Warning" = "For More Result Please Search English";
 
-"Search_Advance_Persian" = "Advance Search (Artist, Album, Musics)";
 "Empty_Search_Text" = "Please enter a text";
-"Search_Advance_Foreign_Artist" = "Advance Search (Artist)";
-"Search_Advance_Foreign_Album" = "Advance Search (Album)";
-
-"Artist_Showcase_Title" = "Artist Search Tool";
-"Artist_Showcase_Body" = "if you are looking for an artist with this button you can find the artist";
-"Album_Showcase_Title" = "Album Search Tool";
-"Album_Showcase_Body" = "if you are looking for an album with this button you can find the album";
 
 "Yes_Delete_It" = "Yes, Delete It";
 
@@ -75,7 +67,7 @@
 "Delete_Song" = "Delete Song";
 "All_Albums" = "All Albums";
 
-"Error_Occurred" = "an Error Occurred";
+"Error_Occurred" = "Error Occurred";
 "Invalid_Link" = "Invalid Link";
 "Cant_Find_Mp3" = "Couldn't find mp3 file";
 "Song_Downloader" = "Song Downloader";
@@ -93,6 +85,7 @@
 "Sib_App_Version" = "Sibapp Version";
 "Nassaab_App_Version" = "Nassaab Version";
 "Direct_App_Version" = "Website Version";
+"Spoti_Phone_App_Version" = "SpotiPhone Version";
 "Yes_Wipe_Data" = "Yes, Wipe Data";
 "Yes_Wipe_Data_iTunes" = "Yes, Wipe Data iTunes Folder";
 "Imported_To_App" = "Imported To App";
@@ -117,14 +110,14 @@
 "Apply_Code" = "Apply Code";
 "Value_Percent_Off" = "Percent Did Apply";
 
-"Preparing_Things" = "Preparing...\nTo Cancel Progress Use Back Button";
+"Preparing_Things" = "Preparing...\nTo Cancel Use Back Button";
 "Nothing_To_Download" = "Everything Downloaded";
 "All_Songs_Added_To_Queue" = "All Songs Added To Download Queue";
 
 "Submit_Code_Title" = "Redeem Code";
-"Submit_Code_Body" = "This Type of code will give away in telegram channel and instagram page\nEnter Your Code";
+"Submit_Code_Body" = "This Type of code will give away in social networks\nEnter Your Code";
 "Submit_Code_Placeholder" = "Code";
-"Submit_Code_Btn" = "Apply Code";
+"Submit_Code_Btn" = "Apply";
 
 "Yes_Sign_Out" = "Yes, SignOut and Wipe Data";
 
@@ -137,10 +130,40 @@
 "UnFollow" = "UnFollow";
 "All_Artists" = "All Artists";
 
-"Freemium_PopUp_Title" = "Free Trial (Test then Buy)";
+"Freemium_PopUp_Title" = "Free Trial";
 
 
-"Request_Playlist_Title" = "Request Spotify's Playlists";
-"Request_Playlist_Subitle" = "To request, just enter the playlist link in the box below and you will be notified when added as a notification and you will be follow the playlist";
-"Playlist_Url_Placeholder" = "Playlist's Url";
+"Request_Playlist_Title" = "Request Spotify Playlists";
+"Request_Playlist_Subitle" = "Enter the playlist link in the box and we'll send you a notification once is ready";
+"Playlist_Url_Placeholder" = "Playlist's URL";
 "Request_This_Playlist" = "Request This Playlist";
+
+"Gateway_Error_Title" = "Gateway Error";
+"Search_Placeholder" = "Artists, Tracks, Playlists or Albums";
+"Search" = "Search";
+
+"Copied_To_Clipboard" = "Lyrics Copied to Clipboard!";
+
+"Songs" = "Songs";
+"Albums" = "Albums";
+"Playlist" = "Playlist";
+"RecentlyDownloads" = "Recently Downloads";
+"Artists" = "Artists";
+"See_All" = "See All";
+
+"More_Result" = "More Results";
+"Cancell_All" = "Cancell All";
+
+"Your_Most_Popular" = "Your Most Popular";
+
+"Download_Failed" = "Download Failed";
+"Download_Completed" = "Download Completed";
+
+"Facebook_Page" = "Facebook Page";
+
+"Submit_Code_Title_SpotiPhone" = "Go Premium";
+"Submit_Code_Body_SpotiPhone" = "Buy one of our online cards on Fastpay and enjoy using the app\nEnter Your Code here";
+"Buy_Btn" = "Buy";
+
+"License_Expired" = "License Expired";
+"License_Expired_Body" = "You don't have access to this content\nto continue You can buy licence on Fastpay";
